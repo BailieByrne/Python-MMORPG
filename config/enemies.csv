@@ -1,0 +1,4 @@
+name,health,speed,damage,cooldown,image,range
+Radroach,100,2,5,2,ronald.png,1
+Deathclaw,900,8,20,0.5,deathclaw.png,3
+Ghoul,50,3,5,1,ghoul.png,1

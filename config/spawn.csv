@@ -1,0 +1,4 @@
+mapID,name,rectx,recty,image
+1,Tony,100,200,player.png
+0,Shade,280,2954,shade.png
+0,Wrangler,2043,32,player.png
