@@ -1,0 +1,56 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Capture.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "PC Computer - Warcraft 2 - Wasteland Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "buildings roofs other.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "grass wehicles other.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kisspng-tile-based-video-game-rpg-maker-vx-tree-5af5b6981470c8.0830347815260525040837.tsx": {
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/kaye/Desktop/TIlesets",
+    "map.height": 100,
+    "map.lastUsedFormat": "tmx",
+    "map.orientation": null,
+    "map.width": 50,
+    "openFiles": [
+        "buildings roofs other.tsx",
+        "grass wehicles other.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "Capture.tsx",
+        "kisspng-tile-based-video-game-rpg-maker-vx-tree-5af5b6981470c8.0830347815260525040837.tsx",
+        "PC Computer - Warcraft 2 - Wasteland Tiles.tsx",
+        "grass wehicles other.tsx",
+        "buildings roofs other.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.transparentColor": "#ffffff",
+    "tileset.useTransparentColor": true
+}
